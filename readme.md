@@ -1,6 +1,5 @@
 # Difference Between `is` and `in` in Python
 
-This README explains the difference between the `is` and `in` operators in Python. Although they might look similar to beginners, they serve very different purposes and are used in entirely different scenarios.
 
 1. `is` Operator
 
